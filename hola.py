@@ -1,8 +1,8 @@
-#Funcion hola
+# Funcion hola
 def hola():
-    print('Hola Mundo')
+    print("Hola Mundo")
 
 
-#Nuevo commit prueba 
+# Nuevo commit prueba
 
 hola()
